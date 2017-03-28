@@ -6,7 +6,7 @@ import org.junit.Test;
 import za.ac.cput.impl.LionImpl;
 
 /**
- * Created by Scorpian on 2016-03-12.
+ * Created by Phelokazi on 2017-03-12.
  */
 public class TestLion {
     private Animal simba;
