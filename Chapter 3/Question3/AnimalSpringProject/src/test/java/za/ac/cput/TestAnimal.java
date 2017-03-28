@@ -8,7 +8,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import za.ac.cput.conf.Appconfig;
 
 /**
- * Created by Scorpian on 2016-03-12.
+ * Created by Phelokazi on 2017-03-12.
  */
 public class TestAnimal {
     private Animal lion;
