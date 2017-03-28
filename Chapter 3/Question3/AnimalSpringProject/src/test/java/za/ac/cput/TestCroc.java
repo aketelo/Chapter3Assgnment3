@@ -10,7 +10,7 @@ import za.ac.cput.impl.LionImpl;
 
 
 /**
- * Created by Scorpian on 2016-03-13.
+ * Created by Phelokazi on 2017-03-13.
  */
 public class TestCroc {
     private Animal Croc;
