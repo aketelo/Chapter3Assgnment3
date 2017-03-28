@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by Scorpian on 2016-03-12.
+ * Created by Phelokazi on 2017-03-12.
  */
 public class MapOOP {
 
